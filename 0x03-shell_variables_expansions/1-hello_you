@@ -1,2 +1,2 @@
 #!/bin/bash
-uid=1000(user) gid=1000(user) groups=1000(user),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),113(lpadmin),128(sambashare)
+echo 'hello user'
